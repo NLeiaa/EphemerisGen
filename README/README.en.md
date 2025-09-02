@@ -120,7 +120,6 @@ Do you want to perform another consultation? (y/n): n
 
 ---
 
-
 ## Contributions
 
 Contributions are welcome! If you have any suggestions for improvements or want to fix an issue, feel free to open an **issue** or send a **pull request**.
