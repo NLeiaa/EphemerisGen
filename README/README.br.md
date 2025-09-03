@@ -1,10 +1,10 @@
-🌌 Welcome to EphemerisGen
+🌌 Bem vindo(a) ao EphemerisGen
 
-👤 Author: NLeiaa
+👤 Autor: NLeiaa
 
 🔗 GitHub: https://github.com/NLeiaa
 
-> Select your language | [English](https://github.com/NLeiaa/EphemerisGen/blob/main/README/README.en.md) | [PtBr](https://github.com/NLeiaa/EphemerisGen/blob/main/README/README.br.md) |
+> Selecione seu idioma | [English](https://github.com/NLeiaa/EphemerisGen/blob/main/README/README.en.md) | [PtBr](https://github.com/NLeiaa/EphemerisGen/blob/main/README/README.br.md) |
 
 
 # EphemerisGen
